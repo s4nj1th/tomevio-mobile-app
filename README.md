@@ -3,11 +3,7 @@
   <p>Flutter mobile app for the Tomevio book tracker platform.</p>
 </div>
 
----
-
 This repo contains the **Flutter** mobile app for **Tomevio**, a FOSS book tracking platform. It connects to the [Tomevio backend](https://github.com/s4nj1th/tomevio-backend) and offers a clean, responsive experience for tracking books on the go.
-
----
 
 ## Features
 
@@ -16,8 +12,6 @@ This repo contains the **Flutter** mobile app for **Tomevio**, a FOSS book track
 - **Author Info**: See author bios and work count.
 - **Cross-platform**: Runs on both Android and iOS.
 - **Built in Flutter**: Beautiful UI with smooth performance.
-
----
 
 ## Getting Started
 
@@ -49,8 +43,6 @@ This repo contains the **Flutter** mobile app for **Tomevio**, a FOSS book track
 
 Make sure a device (emulator or physical) is connected.
 
----
-
 ## Configuration
 
 You can configure the backend URL in `lib/constants.dart`:
@@ -60,8 +52,6 @@ const String apiBaseUrl = 'http://localhost:8080';
 ```
 
 Update this for production or testing deployments.
-
----
 
 ## Project Structure
 
@@ -74,8 +64,6 @@ Update this for production or testing deployments.
 
 - `assets/`: Images and fonts
 
----
-
 ## Contributing
 
 Pull requests and issues are welcome.
@@ -85,18 +73,10 @@ Please:
 - Format code with `flutter format`
 - Keep logic and UI well-separated
 
----
-
 ## License
 
 Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
 ## Maintainers
 
-### Sanjith
-
-- [Github](https://github.com/s4nj1th)
-- [Twitter (X)](https://x.com/s4nj1th)
-- [Email](mailto:sanjith.develops@gmail.com)
+* Sanjith - [Github](https://github.com/s4nj1th) | [Twitter (X)](https://x.com/s4nj1th) | [Email](mailto:sanjith.develops@gmail.com)
